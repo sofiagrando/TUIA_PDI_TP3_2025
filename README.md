@@ -1,3 +1,11 @@
+# Procesamiento de Imágenes I
+## Trabajo Práctico 3
+
+### Integrantes:
+- Grando, Sofía
+- Olivieri, Jeremías
+- Onega, Miranda Pilar
+
 # Procesador de Videos de Dados
 
 Sistema de detección y análisis automático de dados en videos, utilizando procesamiento de imágenes con OpenCV.
